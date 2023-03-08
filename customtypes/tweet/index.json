@@ -1,0 +1,45 @@
+{
+  "id": "tweet",
+  "label": "Tweet",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "uid": {
+        "type": "UID",
+        "config": {
+          "label": "id",
+          "placeholder": ""
+        }
+      },
+      "author": {
+        "type": "Text",
+        "config": {
+          "label": "author",
+          "placeholder": ""
+        }
+      },
+      "text": {
+        "type": "Text",
+        "config": {
+          "label": "text",
+          "placeholder": ""
+        }
+      },
+      "author_url": {
+        "type": "Text",
+        "config": {
+          "label": "author_url",
+          "placeholder": ""
+        }
+      },
+      "image_url": {
+        "type": "Text",
+        "config": {
+          "label": "image_url",
+          "placeholder": ""
+        }
+      }
+    }
+  }
+}

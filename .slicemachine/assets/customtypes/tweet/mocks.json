@@ -1,0 +1,26 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "instance"
+  },
+  "author": {
+    "__TYPE__": "FieldContent",
+    "value": "specific",
+    "type": "Text"
+  },
+  "text": {
+    "__TYPE__": "FieldContent",
+    "value": "process",
+    "type": "Text"
+  },
+  "author_url": {
+    "__TYPE__": "FieldContent",
+    "value": "tropical",
+    "type": "Text"
+  },
+  "image_url": {
+    "__TYPE__": "FieldContent",
+    "value": "what",
+    "type": "Text"
+  }
+}
