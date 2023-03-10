@@ -26,7 +26,7 @@
 
 ###
 
-<h4 align="left">✨ Primsmic CMS</h4>
+<h4 align="left">✨ Prismic CMS</h4>
 
 ###
 
